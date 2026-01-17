@@ -3,9 +3,14 @@
 
 </div>
 
+This is a solution to the [Flashcards project challenge on roadmap.sh](https://roadmap.sh/projects/quiz-app).
+
+## Project URL
+https://quizinterativoreact.vercel.app/
+
 This is a modern, interactive quiz application designed to test knowledge across technology and science. It features a sleek Dark Mode interface with real-time feedback and score tracking.
 
-PROJECT_URL = https://github.com/DanielMartinsn444/quizinterativoreact
+
 
 🎯 Project Overview
 I evolved this project from a basic card system into a full-scale Quiz App. It implements complex state management to handle multiple-choice logic, user validation, and progress tracking through 30 technical questions.
@@ -66,4 +71,5 @@ Este projeto evoluiu de um sistema simples de flashcards para um App de Quiz com
 Developed with ☕ and React.
 
 </div>
+
 
