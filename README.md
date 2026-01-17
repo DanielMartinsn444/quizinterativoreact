@@ -3,7 +3,7 @@
 
 </div>
 
-This is a solution to the [Flashcards project challenge on roadmap.sh](https://roadmap.sh/projects/quiz-app).
+This is a solution to the [QuizAPP project challenge on roadmap.sh](https://roadmap.sh/projects/quiz-app).
 
 ## Project URL
 https://quizinterativoreact.vercel.app/
@@ -71,5 +71,6 @@ Este projeto evoluiu de um sistema simples de flashcards para um App de Quiz com
 Developed with ☕ and React.
 
 </div>
+
 
 
