@@ -1,0 +1,334 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Qual é a principal diferença entre 'let' e 'var' no JavaScript moderno?",
+            "alternatives": [
+                "Var tem escopo de bloco e Let escopo de função",
+                "Let tem escopo de bloco e Var escopo de função",
+                "Não há diferença, ambos são idênticos",
+                "Var permite hoisting e Let não permite"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 2,
+            "question": "O que significa a sigla HTTP?",
+            "alternatives": [
+                "HyperText Transfer Protocol",
+                "High Transfer Tech Protocol",
+                "Hyper Transfer Text Process",
+                "Hyperlink Total Transfer Path"
+            ],
+            "answer": 0
+        },
+        {
+            "id": 3,
+            "question": "Na computação, o que é um 'Kernel'?",
+            "alternatives": [
+                "A interface gráfica do sistema",
+                "O núcleo do sistema operacional que gerencia o hardware",
+                "Um software de edição de texto",
+                "O navegador de internet padrão"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 4,
+            "question": "Qual dessas linguagens é primariamente usada para Inteligência Artificial e Ciência de Dados?",
+            "alternatives": [
+                "PHP",
+                "Swift",
+                "Python",
+                "Ruby"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 5,
+            "question": "Quem é considerado o 'pai da computação'?",
+            "alternatives": [
+                "Bill Gates",
+                "Alan Turing",
+                "Steve Jobs",
+                "Ada Lovelace"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 6,
+            "question": "O que é o fenômeno da 'Entropia' na física?",
+            "alternatives": [
+                "A medida de ordem de um sistema",
+                "A velocidade da luz no vácuo",
+                "A medida de desordem ou aleatoriedade de um sistema",
+                "A força de atração entre planetas"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 7,
+            "question": "Qual empresa desenvolveu o sistema operacional Android?",
+            "alternatives": [
+                "Apple",
+                "Microsoft",
+                "Google",
+                "Samsung"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 8,
+            "question": "Em que ano o primeiro iPhone foi lançado?",
+            "alternatives": [
+                "2005",
+                "2007",
+                "2009",
+                "2010"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 9,
+            "question": "O que é CSS no desenvolvimento web?",
+            "alternatives": [
+                "Uma linguagem de programação lógica",
+                "Uma linguagem de estilização para documentos HTML",
+                "Um banco de dados relacional",
+                "Um protocolo de segurança"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 10,
+            "question": "Qual partícula subatômica tem carga elétrica negativa?",
+            "alternatives": [
+                "Próton",
+                "Nêutron",
+                "Elétron",
+                "Pósitron"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 11,
+            "question": "O que significa a sigla RAM?",
+            "alternatives": [
+                "Read Access Memory",
+                "Random Access Memory",
+                "Real Analysis Mode",
+                "Rapid Access Module"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 12,
+            "question": "Qual é o elemento mais abundante no universo?",
+            "alternatives": [
+                "Oxigênio",
+                "Hélio",
+                "Nitrogênio",
+                "Hidrogênio"
+            ],
+            "answer": 3
+        },
+        {
+            "id": 13,
+            "question": "O que é o 'Bit' na computação?",
+            "alternatives": [
+                "Um conjunto de 8 bytes",
+                "A menor unidade de dados (0 ou 1)",
+                "Um hardware de processamento",
+                "Um tipo de vírus"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 14,
+            "question": "Quem desenvolveu a teoria da Relatividade Geral?",
+            "alternatives": [
+                "Isaac Newton",
+                "Galileu Galilei",
+                "Albert Einstein",
+                "Stephen Hawking"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 15,
+            "question": "Qual é a função principal do Docker?",
+            "alternatives": [
+                "Editar imagens",
+                "Criar e gerenciar containers de software",
+                "Hospedar domínios",
+                "Minerar criptomoedas"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 16,
+            "question": "O que é um 'exoplaneta'?",
+            "alternatives": [
+                "Um planeta dentro do sistema solar",
+                "Um planeta que orbita uma estrela fora do nosso sistema solar",
+                "Uma lua de Júpiter",
+                "Um asteroide em rota de colisão"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 17,
+            "question": "Qual linguagem é a base do desenvolvimento Front-end?",
+            "alternatives": [
+                "Java",
+                "C#",
+                "HTML/JavaScript",
+                "SQL"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 18,
+            "question": "O que significa 'Open Source'?",
+            "alternatives": [
+                "Software pago",
+                "Software com código-fonte aberto para consulta e modificação",
+                "Software exclusivo da Microsoft",
+                "Software que não precisa de internet"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 19,
+            "question": "Qual planeta é conhecido como o 'Planeta Vermelho'?",
+            "alternatives": [
+                "Vênus",
+                "Marte",
+                "Júpiter",
+                "Saturno"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 20,
+            "question": "O que é a computação em nuvem (Cloud Computing)?",
+            "alternatives": [
+                "Armazenar dados em satélites",
+                "Uso de servidores remotos via internet para processar e armazenar dados",
+                "Computadores movidos a energia solar",
+                "Rede de computadores sem fio"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 21,
+            "question": "Qual a velocidade aproximada da luz?",
+            "alternatives": [
+                "150.000 km/s",
+                "300.000 km/s",
+                "1.000.000 km/s",
+                "50.000 km/s"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 22,
+            "question": "O que é o GitHub?",
+            "alternatives": [
+                "Um editor de fotos",
+                "Uma plataforma de hospedagem de código e controle de versão",
+                "Um sistema operacional",
+                "Um provedor de e-mail"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 23,
+            "question": "Qual é a função do componente 'GPU'?",
+            "alternatives": [
+                "Processar dados de texto",
+                "Gerenciar a memória RAM",
+                "Processamento gráfico e cálculos paralelos",
+                "Controlar o teclado"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 24,
+            "question": "O que estuda a Mecânica Quântica?",
+            "alternatives": [
+                "O movimento de galáxias",
+                "Comportamento de partículas em escala atômica e subatômica",
+                "Motores de combustão",
+                "A geologia da Terra"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 25,
+            "question": "Qual dessas é uma linguagem de consulta a banco de dados?",
+            "alternatives": [
+                "JSON",
+                "HTML",
+                "SQL",
+                "XML"
+            ],
+            "answer": 2
+        },
+        {
+            "id": 26,
+            "question": "O que é um algoritmo?",
+            "alternatives": [
+                "Um tipo de computador antigo",
+                "Uma sequência lógica de instruções para resolver um problema",
+                "Um erro de software",
+                "Um componente de hardware"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 27,
+            "question": "Qual foi a primeira rede precursora da Internet?",
+            "alternatives": [
+                "WorldWideWeb",
+                "ARPANET",
+                "Ethernet",
+                "Intranet"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 28,
+            "question": "O que é o DNA?",
+            "alternatives": [
+                "Uma proteína",
+                "Uma molécula que carrega as instruções genéticas",
+                "Um tipo de célula",
+                "Um vírus benéfico"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 29,
+            "question": "Qual o principal gás responsável pelo efeito estufa?",
+            "alternatives": [
+                "Oxigênio",
+                "Dióxido de Carbono (CO2)",
+                "Nitrogênio",
+                "Argônio"
+            ],
+            "answer": 1
+        },
+        {
+            "id": 30,
+            "question": "Em programação, o que é uma 'String'?",
+            "alternatives": [
+                "Um número decimal",
+                "Uma sequência de caracteres (texto)",
+                "Um valor verdadeiro ou falso",
+                "Um comando de fechamento"
+            ],
+            "answer": 1
+        }
+    ]
+}
